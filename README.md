@@ -20,7 +20,8 @@ Although this project completes all the required features of the project's instr
 
 
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+![Post Details](https://github.com/jenneetee/anidiscuss-project/assets/106610124/6f85c85c-f3bf-456b-8a74-7e5d88aab38d)
+
 
 ## Reflection
 
