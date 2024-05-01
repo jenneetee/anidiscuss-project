@@ -16,7 +16,9 @@ Although this project completes all the required features of the project's instr
 
 ## Project Screen Shot(s)
 
-[ PRETEND SCREEN SHOT IS HERE ]
+![Home Screen](https://github.com/jenneetee/anidiscuss-project/assets/106610124/757fffef-98f1-4f90-b283-cc3b2cd85043)
+
+
 
 [ PRETEND OTHER SCREEN SHOT IS HERE ]
 
