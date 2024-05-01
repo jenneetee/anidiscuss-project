@@ -6,7 +6,7 @@ An application that simulates an online forum for users to discuss anime. Users 
 
 ## Project Status
 
-Although this project completes all the required features of the project's instructions, I'd like to implement/fix the following features somewhere in the future:
+Although this project completes all the required features of the project's instructions, I'd like to implement/fix the following features somewhere in the future to improve AniDiscuss' experience.:
 - [ ] Adding an API that contains a list of animes to make the website more dynamic(Might use MyAnimeList API)
 - [ ] Fixing the "edit" button so that users can actually edit their posts.
 - [ ] Implementing React Router for navigation (pages).
