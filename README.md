@@ -28,4 +28,4 @@ Although this project completes all the required features of the project's instr
   - What were some unexpected obstacles?
 
 
-ReadMe template by [martensonbj](https://gist.github.com/martensonbj/6bf2ec2ed55f5be723415ea73c4557c4)
+*README template by [martensonbj](https://gist.github.com/martensonbj/6bf2ec2ed55f5be723415ea73c4557c4)*
