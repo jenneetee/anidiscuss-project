@@ -1,0 +1,22 @@
+.post {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    display: block;
+    text-align: left;
+  }
+  
+  .post:hover {
+    border-color: #152416;
+  }
+
+  .button-container{
+    color: #2a702e;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+  }

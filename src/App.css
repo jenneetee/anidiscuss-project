@@ -1,0 +1,98 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+.navbar {
+  background-color: #C4F1BE;
+  color: #201E50;
+  padding: 10px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Ensure it's above other content */
+  display: flex;
+  justify-content: space-between; /* Align items to space between */
+  align-items: center; /* Center items vertically */
+}
+
+.navbar h1 {
+  margin: 0;
+  padding: 0 20px; /* Add some padding around the text */
+  font-size: 1.2em; /* Reduce the font size if it's too large */
+}
+
+.create-post-form input[type="text"] {
+  width: 100%; /* Fixed width or smaller percentage */
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 0.9em;
+  background-color: white;
+  color: black;
+}
+
+.create-post-form input[type="submit"], button {
+  padding: 0.5em 1em; /* Smaller button padding */
+  font-size: 0.9em; /* Smaller button font size */
+}
+
+.main-content {
+  padding-top: 60px; /* Adjust top padding to account for the fixed navbar */
+}
+textarea { /*for content*/
+  width: 100%; /* Fixed width or smaller percentage */
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 0.9em;
+  background-color: white;
+  color: black;
+}
+.search-bar {
+  display: flex;
+  width: 20%;
+  justify-content: center;
+  margin-bottom: 20px;
+  background-color: white;
+  color: black;
+}
+
+.navbar select {
+  background-color: white; /* Set background color to white */
+  color: black;
+  border: 1px solid #ccc; /* Add border */
+  border-radius: 4px; /* Add border radius */
+  padding: 8px; /* Add padding */
+  margin-right: 10px; /* Add margin */
+}
+
+.post {
+  background-color: white; /* Set background color to white */
+  color: black;
+  border: 1px solid #ccc; /* Add border */
+  border-radius: 8px; /* Add border radius */
+  padding: 10px; /* Add padding */
+  margin-bottom: 10px; /* Add margin bottom */
+}
+
+button{
+  background-color: #C4F1BE;
+  color: #0f5241;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  margin: 10px;
+}

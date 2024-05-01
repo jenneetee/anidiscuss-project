@@ -1,0 +1,16 @@
+.post-details{
+    background-color: white; /* Set background color to white */
+    color: black;
+    border: 1px solid #ccc; /* Add border */
+    border-radius: 8px; /* Add border radius */
+    padding: 10px; /* Add padding */
+    margin-bottom: 10px; /* Add margin bottom */
+    text-align: left;
+}
+
+.post-details img {
+    max-width: 20%; /* Constrain the image width to fit within the post */
+    height: auto; /* Maintain the aspect ratio of the image */
+    display: block; /* Ensure the image is displayed as a block element */
+    margin: 0 auto; /* Center the image horizontally within the post */
+  }
