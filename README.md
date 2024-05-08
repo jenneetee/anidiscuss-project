@@ -2,7 +2,7 @@
 
 AniDiscuss.net (CODEPATH WEB102 Final Project Spring 2024)
 
-An application that simulates an online forum for users to discuss anime. Users can post, upvote, and delete posts. Additional features include a search bar, filtering my genre, and sort by created time/number of upvotes. Built with React, Vite, JavaScript, and CSS.
+An application that simulates an online forum for users to discuss anime. Users can post, upvote, and delete posts. Additional features include a search bar, filtering by genre, and sorting by created time/number of upvotes. Built with React, Vite, JavaScript, and CSS.
 
 ## Project Status
 
